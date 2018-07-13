@@ -1,0 +1,9 @@
+x = 8
+y = 3
+z = 2.0
+a = "Duke"
+b = "CoolColors"
+
+x/y * z
+a * y
+b - "o"
