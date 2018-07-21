@@ -1,0 +1,10 @@
+a = "computational thinking"
+     0123456789012345678901
+
+b = "duke university"
+     012345678901234
+
+c = "python code"
+     01234567890
+
+print()
